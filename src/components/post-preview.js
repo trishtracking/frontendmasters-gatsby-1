@@ -20,7 +20,7 @@ const PostPreview = ({ post }) => (
       to={post.slug}
       css={css`
         margin: 1rem 1rem 0 0;
-        width: 100px;
+        width: 120px;
       `}
     >
       <Image
