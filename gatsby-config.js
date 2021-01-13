@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Frontend Masters Gatsby Workshop',
     description:
-      'A site we built together during a full-day Frontend Masters Gatsby workshop!',
+      'A site I built for a Frontend Masters Gatsby workshop!',
   },
   plugins: [
     'gatsby-transformer-sharp',
