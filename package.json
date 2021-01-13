@@ -12,7 +12,6 @@
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "analyze": "ANALYZE_BUNDLE_SIZE=true gatsby build"
-
   },
   "dependencies": {
     "@emotion/core": "^10.0.22",
